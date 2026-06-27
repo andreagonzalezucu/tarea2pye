@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("muestra2000.csv")
+df = pd.read_csv("../muestra2000.csv")
 
 frecuencia_abs = df["Destino"].value_counts().sort_index()
 

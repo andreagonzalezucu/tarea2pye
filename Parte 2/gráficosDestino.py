@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("muestra2000.csv")
+df = pd.read_csv("../muestra2000.csv")
 
 # Frecuencias de la variable Destino
 frecuencia = df["Destino"].value_counts()
