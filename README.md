@@ -24,9 +24,7 @@ git clone https://github.com/andreagonzalezucu/tarea2pye.git
 cd tarea2pye
 ```
 
-```
-
-2\. Instalar las dependencias.
+2. Instalar las dependencias.
 
 ```
 pip install -r requirements.txt
